@@ -1,0 +1,81 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #424139;
+  font-family: arial;
+}
+
+div.red{
+  width: 700px;
+  height: 50px;
+  background-color: #AB2513;
+  margin: 0 auto;
+}
+
+div.container{
+  width: 700px;
+  height: auto;
+  background-color: white;
+  margin: 0 auto;
+}
+
+h1 {
+    font-family: RAVIE;
+    src: url("../extra/RAVIE.TTF");
+    color: white;
+    font-size: 50px;
+    margin-left: 32%;
+    letter-spacing: 2px;
+}
+
+ul{
+  margin-left: -27px;
+}
+li{
+  display: inline;
+  color: white;
+}
+
+li.right{
+  margin-left: 25px;
+}
+
+footer{
+  background-color: #535245;
+  height: 30px;
+  text-align: center;
+  padding-top: 15px;
+  color: white;
+  margin-top: 50px;
+}
+
+h3{
+  margin-top: 0px;
+  padding-top: 23px;
+  padding-left: 2px;
+}
+
+div.text{
+  padding-left: 15px;
+}
+
+input{
+  float: right;
+  margin-right: 50px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+input.button{
+margin-top: 20px;
+margin-left: 40%;
+margin-right: 32.5%;
+float: right;
+}
